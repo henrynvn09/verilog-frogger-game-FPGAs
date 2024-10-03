@@ -2,7 +2,7 @@
 
 ## Demo
 
-<video src='https://youtube.com/shorts/Wi7r8Vavvcg' width=180/>
+[<img src="https://img.youtube.com/vi/Wi7r8Vavvcg/maxresdefault.jpg" width="50%">](https://youtu.be/Wi7r8Vavvcg)
 
 ## Introduction
 
