@@ -2,7 +2,7 @@
 
 ## Demo
 
-[<img src="https://img.youtube.com/vi/Wi7r8Vavvcg/maxresdefault.jpg" width="50%">](https://youtu.be/Wi7r8Vavvcg)
+https://github.com/user-attachments/assets/ce7145be-58ab-47a0-aa97-528e5aff7fb5
 
 ## Introduction
 
